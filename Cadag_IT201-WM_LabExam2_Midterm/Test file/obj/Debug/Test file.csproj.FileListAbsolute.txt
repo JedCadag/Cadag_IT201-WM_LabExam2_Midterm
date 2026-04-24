@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test file.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test_file.Form1.resources
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test_file.Properties.Resources.resources
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test file.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test file.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\bin\Debug\Test file.exe.config
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\bin\Debug\Test file.exe
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\bin\Debug\Test file.pdb
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test file.exe
+C:\Users\pc\source\repos\Cadag_IT201-WM_LabExam2_Midterm\Test file\obj\Debug\Test file.pdb
